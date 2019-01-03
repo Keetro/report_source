@@ -3,8 +3,10 @@ title: A/B Testing
 author: tristan
 date: '2018-10-03'
 slug: a-b-testing
-categories: []
+categories: [analytics]
 tags: []
+draft: true
+type: commentary
 featured: ["https://research.fb.com/efficient-tuning-of-online-systems-using-bayesian-optimization/","http://hookedondata.org/Guidelines-for-AB-Testing/"]
 ---
 

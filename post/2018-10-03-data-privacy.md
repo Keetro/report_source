@@ -3,9 +3,10 @@ title: Data Privacy
 author: tristan
 date: '2018-10-03'
 slug: data-privacy
-categories: []
+categories: [analytics]
 tags:
   - spotify
+type: commentary
 featured: ["https://labs.spotify.com/2018/09/18/scalable-user-privacy/"]
 ---
 **Spotify: Scalable User Privacy**

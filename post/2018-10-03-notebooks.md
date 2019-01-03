@@ -6,6 +6,7 @@ slug: notebooks
 categories: [data science]
 tags:
   - Jupyter
+type: commentary
 featured: ["https://medium.com/netflix-techblog/notebook-innovation-591ee3221233"]
 ---
 

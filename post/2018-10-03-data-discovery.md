@@ -5,6 +5,7 @@ date: '2018-10-03'
 slug: data-discovery
 categories: []
 tags: []
+type: commentary
 featured: ["https://www.blog.google/products/search/making-it-easier-discover-datasets/","https://eng.uber.com/databook/","https://medium.com/@leapingllamas/data-dictionary-a-how-to-and-best-practices-a09a685dcd61"]
 ---
 

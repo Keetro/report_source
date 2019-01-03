@@ -6,6 +6,7 @@ slug: recommendation-system
 categories:
   - data science
 tags: []
+type: commentary
 featured: ["https://eng.uber.com/uber-eats-query-understanding/"]
 ---
 ## Food Discovery with Uber Eats: Building a Query Understanding Engine

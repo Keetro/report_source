@@ -5,6 +5,7 @@ date: '2018-10-03'
 slug: constraint-optimization
 categories: [data science]
 tags: []
+type: commentary
 featured: ["https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/"]
 ---
 ## Stitch Fix: Add Constrained Optimization To Your Toolbelt

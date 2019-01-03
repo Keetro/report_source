@@ -6,6 +6,7 @@ slug: bias-variance-tradeoff
 categories:
   - data science
 tags: []
+type: commentary
 featured: ["http://www.r2d3.us/visual-intro-to-machine-learning-part-2/"]
 ---
 

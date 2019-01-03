@@ -6,7 +6,8 @@ slug: programming
 categories:
   - data science
 tags: []
-featured: [""]
+type: commentary
+featured: ["https://www.dataquest.io/blog/programming-best-practices-for-data-science/"]
 ---
 ## Programming Best Practices For Data Science
 

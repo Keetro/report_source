@@ -7,6 +7,7 @@ categories:
   - vendors
   - data science
 tags: []
+type: commentary
 featured: ["https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995","https://blog.twitter.com/engineering/en_us/topics/insights/2018/twittertensorflow.html"]
 ---
 ## 9 Things You Should Know About TensorFlow

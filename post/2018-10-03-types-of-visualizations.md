@@ -5,6 +5,7 @@ date: '2018-10-03'
 slug: types-of-visualizations
 categories: []
 tags: [maps]
+type: commentary
 featured: ["https://flowingdata.com/2018/09/27/summer-rain-levels-compared-to-the-norms/"]
 ---
 
@@ -18,3 +19,6 @@ featured: ["https://flowingdata.com/2018/09/27/summer-rain-levels-compared-to-th
 [nytimes.com](https://www.nytimes.com/interactive/2018/06/13/upshot/boys-girls-math-reading-tests.html)
 <img src="https://s3.amazonaws.com/revue/items/images/003/098/733/mail/Screen_Shot_2018-06-16_at_9.21.23_AM.png?1529155319"/>
 Love the narrative overlaid on the image.
+
+[Keeping up with the Joneses](https://www.economist.com/graphic-detail/2018/06/07/the-stark-relationship-between-income-inequality-and-crime)
+<img src="https://s3.amazonaws.com/revue/items/images/003/072/183/mail/20180609_WOC986.png?1528545317"/>

@@ -3,10 +3,11 @@ title: Columnar Databases
 author: tristan
 date: '2018-10-03'
 slug: columnar-databases
-categories: []
+categories: [data engineering]
 tags:
   - redshift
   - bigquery
+type: commentary
 featured: ["https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/"]
 ---
 

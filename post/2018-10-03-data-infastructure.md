@@ -1,12 +1,15 @@
 ---
 title: Data Infastructure
 author: tristan
+# authors: [tristan,segah]
 date: '2018-10-03'
 slug: data-infastructure
-categories: []
+categories: [data engineering,data science]
 tags: []
+type: commentary
 featured: ["https://multithreaded.stitchfix.com/blog/2018/09/05/datahighway","https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d?gi=800d1347cc9c"]
 ---
+@tristan
 ## Stitch Fix: Putting the Power of Kafka into the Hands of Data Scientists
 
 It’s been a while since I read an amazing “here’s how we built our killer data infrastructure” post, but this one more than scratched the itch. It details a year-long project involving design, technology selection, and implementation.
@@ -31,3 +34,12 @@ Ok, yes, I definitely agree with that. But where does the post go from there? Oh
 
 There are so many “How to do X thing in Python” tutorials out there, but it’s rare to see a detailed tutorial on the practical stuff that will differentiate you as a data scientist. Thanks to Ben Weber of Zynga for a great post.
 [towardsdatascience.com](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d?gi=800d1347cc9c)
+
+@segah
+## How to setup a Lambda architecture for Snowplow
+In this brief Ihor from Snowplow describes how they have architected event collection using AWS Lambda service for rapid batch processing. Whether you are relying on Snowplow or building your own event collection, this is a useful architect-level write-up. More from the author:
+
+> What is the Lambda Architecture?
+In the Big Data 31 book, Nathan Marz came up with the term Lambda Architecture for a generic, scalable and fault-tolerant data processing architecture, based on his experience working on distributed data processing systems at Backtype and Twitter.
+
+> Lambda architecture is a data-processing architecture designed to handle massive quantities of data by taking advantage of both batch- and stream-processing methods. This approach to architecture attempts to balance latency, throughput, and fault-tolerance by using batch processing to provide comprehensive and accurate views of batch data, while simultaneously using real-time stream processing to provide views of online data. The two view outputs may be joined before presentation. The rise of lambda architecture is correlated with the growth of big data, real-time analytics, and the drive to mitigate the latencies of map-reduce.

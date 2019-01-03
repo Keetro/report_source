@@ -6,7 +6,8 @@ slug: ml-frameworks
 img: https://s3.amazonaws.com/revue/items/images/003/546/604/mail/1*s_BwkYxpGv34vjOHi8tDzg.png?1537618696
 categories: []
 tags: []
-featured: [https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a]
+type: commentary
+featured: ["https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a"]
 ---
 
 <img src="https://s3.amazonaws.com/revue/items/images/003/546/604/mail/1*s_BwkYxpGv34vjOHi8tDzg.png?1537618696"/>
@@ -24,4 +25,4 @@ The final results are in the chart above. Data sources include:
 * GitHub Activity
 
 If you’re starting a new deep learning project, by all means, choose your framework based on technical requirements. But if you’re curious about adoption / popularity, this is a solid benchmark. Users exert gravity in winner-take-all technology ecosystems; I expect the top frameworks to only become more popular and more feature-rich as the space matures.
-[https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a](towardsdatascience.com)
+[towardsdatascience.com](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a)
