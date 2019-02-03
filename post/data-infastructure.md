@@ -3,6 +3,7 @@ title: Data Infastructure
 author: tristan
 # authors: [tristan,segah]
 date: '2018-10-03'
+draft: true
 slug: data-infastructure
 categories: [data engineering,data science]
 tags: []
@@ -28,7 +29,7 @@ An amazing model for much of modern software development.
 
 ## Zynga: Data Science for Startups - Model Services
 I love this post! Here’s the intro:
-> In order for data scientists to be effective at a startup, they need to be able to build services that other teams can use, or that products can use directly. For example, instead of just defining a model for predicting user churn, a data scientist should be able to set up an endpoint that provides a real-time prediction for the likelihood of a player to churn. 
+> In order for data scientists to be effective at a startup, they need to be able to build services that other teams can use, or that products can use directly. For example, instead of just defining a model for predicting user churn, a data scientist should be able to set up an endpoint that provides a real-time prediction for the likelihood of a player to churn.
 
 Ok, yes, I definitely agree with that. But where does the post go from there? Oh, Idunno, how about an entire walkthrough of how to use AWS Lambda to create such a service?
 

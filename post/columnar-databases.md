@@ -10,8 +10,6 @@ tags:
 type: commentary
 featured: ["https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/"]
 ---
-
-<!--more-->
 The design and implementation of modern column-oriented database systems
 Have you ever found yourself answering the question “But why is Redshift (or Snowflake or Bigquery, etc) faster than Postgres?” I answer this question a lot—multiple times a week. This is the single best answer to that question I’ve ever seen, and it goes deep into topics like column pruning and compression. Dense; very worthwhile.
 

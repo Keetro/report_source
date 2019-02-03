@@ -3,6 +3,7 @@ title: Redshift Optimization
 author: tristan
 #authors: [tristan, segah]
 date: '2018-10-03'
+draft: true
 slug: redshift-optimization
 categories: []
 tags: []

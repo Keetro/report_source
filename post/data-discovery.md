@@ -3,8 +3,8 @@ title: Data Discovery
 author: tristan
 date: '2018-10-03'
 slug: data-discovery
-categories: []
-tags: []
+categories: [Analytics]
+tags: [google,uber,databook]
 type: commentary
 featured: ["https://www.blog.google/products/search/making-it-easier-discover-datasets/","https://eng.uber.com/databook/","https://medium.com/@leapingllamas/data-dictionary-a-how-to-and-best-practices-a09a685dcd61"]
 ---
@@ -26,7 +26,7 @@ This post from Uber goes deep into Databook, their in-house solution for this pr
 ## Data Dictionary: How To and Best Practices
 > A data dictionary is a list of key terms and metrics with definitions, a business glossary. While it is sounds simple, almost trivial, its ability to align the business and remove confusion can be profound. In fact, a data dictionary is possibly one of the most valuable artifacts that a data team can deliver to the business.
 
-What a boring topic, right? Who wants to think about data dictionaries, let’s build models! 
+What a boring topic, right? Who wants to think about data dictionaries, let’s build models!
 
 The author, Carl Anderson, used to run Data Science at Warby Parker and literally wrote the book on creating an amazing data organization. Sometimes the most useful things are the most basic.
 [medium.com](https://medium.com/@leapingllamas/data-dictionary-a-how-to-and-best-practices-a09a685dcd61)

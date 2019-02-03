@@ -4,6 +4,7 @@ author: tristan
 # authors: [tristan,segah]
 date: '2018-10-03'
 slug: metrics
+draft: true
 categories: [analytics]
 tags: []
 type: commentary

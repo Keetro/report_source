@@ -1,6 +1,8 @@
 ---
 title: Cohort Analysis
 author: segah
+team: caura
+draft: true
 date: '2018-10-04'
 slug: cohort-analysis
 categories:

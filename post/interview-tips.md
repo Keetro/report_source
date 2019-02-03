@@ -3,6 +3,7 @@ title: Interview Tips
 author: tristan
 # authors: [tristan, segah]
 date: '2018-10-03'
+draft: true
 slug: interview-tips
 categories: [analytics]
 tags: [sql]

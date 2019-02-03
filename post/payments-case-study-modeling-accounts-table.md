@@ -1,8 +1,11 @@
 ---
-title: "Case study: modeling accounts table"
-author: 'segah'
-team: payments
+title: "Case study: modeling accounts table "
+author: segah
+team: caura
+type: article
 date: '2018-09-21'
+categories:
+  - analytics
 slug: payments-case-study-modeling-accounts-table
 tags: [Payments,accounts,metrics]
 ---
