@@ -3,7 +3,7 @@ title: "The Startup Founder’s Guide to Analytics"
 author: tristan
 team: fishtown
 type: article
-date: '2017-3-31'
+date: '2019-01-30'
 categories:
   - analytics
 slug: startup-founders-guide-to-analytics

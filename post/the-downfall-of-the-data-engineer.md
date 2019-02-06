@@ -1,7 +1,7 @@
 ---
 title: The Downfall of the Data Engineer
 author: maxime
-date: '2017-08-28'
+date: '2019-01-30'
 slug: the-downfall-of-the-data-engineer
 categories: [data science,data engineering,analytics]
 tags: [airflow,maxime,lyft]
